@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-414 216 130 130" style="enable-background:new -414 216 130 130;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFDE73;}
+	.st1{fill:#FFDE73;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:5px;}
+	.st4{font-size:5.0004px;}
+	.st5{fill:#FFDA00;}
+	.st6{fill:#FBB03B;}
+	.st7{fill:#8CC63F;}
+</style>
+<image style="overflow:visible;" width="324" height="324" xlink:href="../../../../Desktop/resources/bg_04_paula.png"  transform="matrix(0.3457 0 0 0.3457 -404 227)">
+</image>
+<circle class="st0" cx="-348.2" cy="282.6" r="56"/>
+<polyline class="st1" points="-315.8,237.6 -312.7,240.1 -315.5,240.4 "/>
+<text transform="matrix(0.7379 -0.6749 0.6749 0.7379 -395.8457 246.6167)" class="st1 st2 st3">HfK</text>
+<text transform="matrix(0.766 0.6428 -0.6428 0.766 -305.5473 237.7224)" class="st1 st2 st3">Uni</text>
+<text transform="matrix(-0.4175 0.9086 -0.9086 -0.4175 -295.9374 312.1347)" class="st1 st2 st3">DH</text>
+<text transform="matrix(-0.2014 -0.9795 0.9795 -0.2014 -405.5465 298.1933)" class="st1 st2 st4">RCH</text>
+<g>
+	<polygon id="XMLID_11_" class="st5" points="-390.7,243.8 -388.6,247.5 -392.9,247.5 	"/>
+	<path id="XMLID_4_" d="M-390.7,244.5l1.6,2.7h-3.1L-390.7,244.5 M-390.7,243.8l-2.2,3.7h4.3L-390.7,243.8L-390.7,243.8z"/>
+</g>
+<g>
+	<circle id="XMLID_10_" class="st6" cx="-296.3" cy="302.2" r="6.8"/>
+	<path id="XMLID_6_" d="M-296.3,296.6c3.1,0,5.6,2.5,5.6,5.6s-2.5,5.6-5.6,5.6s-5.6-2.5-5.6-5.6
+		C-301.9,299.2-299.4,296.6-296.3,296.6 M-296.3,295.5c-3.7,0-6.8,3-6.8,6.8c0,3.7,3,6.8,6.8,6.8s6.8-3,6.8-6.8
+		C-289.6,298.5-292.6,295.5-296.3,295.5L-296.3,295.5z"/>
+</g>
+<g id="XMLID_1_">
+	<g>
+		<circle id="XMLID_9_" class="st7" cx="-400.7" cy="306.5" r="6.8"/>
+		<path id="XMLID_5_" d="M-400.7,300.9c3.1,0,5.6,2.5,5.6,5.6s-2.5,5.6-5.6,5.6s-5.6-2.5-5.6-5.6
+			C-406.3,303.5-403.8,300.9-400.7,300.9 M-400.7,299.8c-3.7,0-6.8,3-6.8,6.8c0,3.7,3,6.8,6.8,6.8s6.8-3,6.8-6.8
+			S-397,299.8-400.7,299.8L-400.7,299.8z"/>
+	</g>
+	<g>
+		<circle id="XMLID_8_" class="st7" cx="-400.7" cy="306.5" r="3.3"/>
+		<path id="XMLID_3_" d="M-400.7,304.4c1.2,0,2.1,0.9,2.1,2.1s-0.9,2.1-2.1,2.1s-2.1-0.9-2.1-2.1
+			C-402.8,305.4-401.9,304.4-400.7,304.4 M-400.7,303.3c-1.8,0-3.3,1.5-3.3,3.3s1.5,3.3,3.3,3.3s3.3-1.5,3.3-3.3
+			C-397.4,304.7-398.9,303.3-400.7,303.3L-400.7,303.3z"/>
+	</g>
+</g>
+<g>
+	<rect id="XMLID_13_" x="-310.3" y="241.1" class="st6" width="6.6" height="6.6"/>
+	<path id="XMLID_7_" d="M-304.3,241.7v5.4h-5.4v-5.4H-304.3 M-303.7,241.1h-6.6v6.6h6.6V241.1L-303.7,241.1z"/>
+</g>
+</svg>
